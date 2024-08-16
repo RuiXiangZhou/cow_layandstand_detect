@@ -1,0 +1,1 @@
+# cow_layandstand_detect
